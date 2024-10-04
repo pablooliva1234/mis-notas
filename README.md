@@ -12,11 +12,18 @@ hola ramon
 # Python es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes.
 # Ejemplo de programa realizado en  phyton,consiste en multlipicación sencilla.
 # Online Python - IDE, Editor, Compiler, Interpreter
-    def mul(a, b):
-    funcion que multlipica
-    resultado = a * b
-    return (resultado)
-    programa principal -main-
-    a = int(input('Enter 1st number: '))
-    b = int(input('Enter 2nd number: '))
-    print(f'mul de {a} and {b} is {sum(a, b)}')
+    # Online Python - IDE, Editor, Compiler, Interpreter
+
+def sum(a, b):           # define funcion sum
+    return (a + b)
+
+def mul(a, b):           # define funcion mul
+    return (a * b)
+
+a = int(input('Enter 1st number: '))
+b = int(input('Enter 2nd number: '))
+
+print(f'Sum of {a} and {b} is {sum(a, b)}')
+print(f'Mul of {a} and {b} is {mul(a, b)}')
+
+print(f'Sum of {a} and {b} is {sum(a, b)} and the product is {mul(a, b)}')
