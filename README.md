@@ -17,6 +17,6 @@ hola ramon
     resultado = a * b
     return (resultado)
 # programa principal -main-
-a = int(input('Enter 1st number: '))
-b = int(input('Enter 2nd number: '))
-print(f'mul de {a} and {b} is {sum(a, b)}')
+    a = int(input('Enter 1st number: '))
+    b = int(input('Enter 2nd number: '))
+    print(f'mul de {a} and {b} is {sum(a, b)}')
