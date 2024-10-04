@@ -11,8 +11,8 @@ hola ramon
 # Los estímulos entran por NUM 1 Y NUM 2 a el operador que las transforma en una salida que recibe el nombre de RES.
 # Python es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes.
 # Ejemplo de programa realizado en  phyton,consiste en multlipicación sencilla.
-# Online Python - IDE, Editor, Compiler, Interpreter
-    # Online Python - IDE, Editor, Compiler, Interpreter
+
+ # Online Python - IDE, Editor, Compiler, Interpreter
 
 def sum(a, b):           # define funcion sum
     return (a + b)
