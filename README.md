@@ -10,7 +10,7 @@ hola ramon
 # ¿Que se puede hacer con la CPU?# :La CPU es el componente principal que procesa las señales y hace posible la computación. Actúa como el cerebro de cualquier dispositivo de computación. Obtiene instrucciones de la memoria, realiza las tareas necesarias y envía la salida a la memoria, ejecuta una secuencia de instrucciones y procesa los datos de las mismas. Estas secuencias de instrucciones son las que realizan los programas que tienes instalados en el ordenador.
 # Los estímulos entran por NUM 1 Y NUM 2 a el operador que las transforma en una salida que recibe el nombre de RES.
 # Python es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes.
-# Ejemplo de programa realizado en  phyton,consiste en multlipicación sencilla.
+# Ejemplo de programa realizado en  phyton,consiste en una suma y una multlipicación sencilla.
 
  # Online Python - IDE, Editor, Compiler, Interpreter
 
