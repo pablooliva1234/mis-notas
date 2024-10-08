@@ -26,4 +26,23 @@ b = int(input('Enter 2nd number: '))
 print(f'Sum of {a} and {b} is {sum(a, b)}')
 print(f'Mul of {a} and {b} is {mul(a, b)}')
 
-print(f'Sum of {a} and {b} is {sum(a, b)} and the product is {mul(a, b)}')
+print(f'Sum of {a} and {b} is {sum(a, b)} and the product is {mul(a, b)}') 
+
+# Tipos de datos-Datos particulares
+Clases-Objetos particulares
+Perro-Pompa
+Cada dato tiene un tipo distinto:entero(int) etc.
+Los datos de un mismo tipo se pueden sumar,por ejemplo 3(tipo entero +3(tipo entero)= 6
+# aquí un ejemplo de programa utrilizando las clases y datos
+class gato:
+    def_init_(self):
+        print(``hola mundo, meow!``)
+#        
+        
+class perro:
+    def _init_(self):
+        print(``hola mundo, wolf!``)
+#
+
+gato0 = gato()
+perro0 = perro()
