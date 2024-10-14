@@ -47,9 +47,9 @@ class perro:
 gato0 = gato()
 perro0 = perro()
 
-Cliente,master  - Primario
-Servicio,slave - Secundario
-El cliente comeinza el programa pidiendole al servicio que trabaje utilizando el dato 22 y 33,el servicio nos comunica el dato que ha recibido y da el OK que controla la operación.
+# Cliente,master  - Primario
+# Servicio,slave - Secundario
+# El cliente comeinza el programa pidiendole al servicio que trabaje utilizando el dato 22 y 33,el servicio nos comunica el dato que ha recibido y da el OK que controla la operación.
 OK = True
 
 
