@@ -46,3 +46,25 @@ class perro:
 
 gato0 = gato()
 perro0 = perro()
+
+Cliente,master  - Primario
+Servicio,slave - Secundario
+El cliente comeinza el programa pidiendole al servicio que trabaje utilizando el dato 22 y 33,el servicio nos comunica el dato que ha recibido y da el OK que controla la operación.
+OK = True
+
+
+def surv(f"dato, control=OK):
+    PRINT("srv", recibido: {dato}" }
+        return  OK
+   
+    
+def cli():
+    print("cli: begin")
+    srv(22)
+    srv(33)
+    print(cli: end")
+ main --------------------------------
+
+cli()
+
+
