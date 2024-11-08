@@ -41,7 +41,7 @@ Clases-Objetos particulares
 Perro-Pompa
 Cada dato tiene un tipo distinto:entero(int) etc.
 Los datos de un mismo tipo se pueden sumar,por ejemplo 3(tipo entero +3(tipo entero)= 6
-![1730797271076](https://github.com/user-attachments/assets/a2227906-fb8f-487b-8d82-6cfb2e23b2bf)
+
 
 # aquí un ejemplo de programa utrilizando las clases y datos
 class gato:
@@ -56,6 +56,7 @@ class perro:
 
 gato0 = gato()
 perro0 = perro()
+![1730797271076](https://github.com/user-attachments/assets/a2227906-fb8f-487b-8d82-6cfb2e23b2bf)
 
 ![1730797271055](https://github.com/user-attachments/assets/77816cf1-e6e1-435f-9181-f171aa3a8fda)
 
