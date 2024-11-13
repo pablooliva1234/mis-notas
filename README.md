@@ -130,4 +130,83 @@ coche(numBastidor,matricula,año,marca,modelo,color...)
 vendedor(numVendedor,dni,nombre,ape,tf)
 venta(coche,cliente,vendedorimporte,fecha...)
 recompra(de coche)(por cliente)
+# Trabajo particular trimerstral(Busqueda de información sobre inteligencias artificiales dedicadas a la traducción e inter`retación de idiomas)
+
+# 1. Google Lens
+-Traducción en tiempo real de más de 100 idiomas usando la cámara.
+-Traduce texto en letreros, menús y documentos al instante.
+-Integrado en Google Photos y la aplicación de Google para traducir imágenes guardadas y capturas de pantalla.
+-Mejora los viajes al permitir una fácil navegación y comprensión de textos extranjeros.
+-Interfaz fácil de usar que proporciona una traducción de idiomas práctica y fluida.
+# 2. Traductor Google
+El software de traducción más popular con diferencia es Google Translate. Casi todo el mundo lo ha usado en algún momento. La herramienta gratuita de traducción automática en línea le permite traducir texto, documentos y sitios web de un idioma a un idioma de destino. 
+
+Podría decirse que Google Translate es la herramienta de traducción de IA más accesible del mercado. Ofrece un diseño simple en el que todo lo que tiene que hacer es elegir sus idiomas, escribir el texto y presionar "traducir". 
+
+El software proporciona traducción para más de 100 idiomas en todo el mundo y utiliza hablantes nativos para entrenar el algoritmo de IA.
+
+Algunas de las características principales de Google Translate incluyen: 
+
+Traducción multilingüe
+Fácil de usar y muy accesible 
+Gratis 
+Traducciones verificadas
+Modo de conversación para uso móvil
+# 3 DeepL
+Una de las herramientas de traducción de IA que crece constantemente en popularidad es DeepL, que es utilizada tanto por empresas como por particulares. El software ha logrado una gran reputación por sus traducciones precisas. 
+
+DeepL es conocido por su interfaz intuitiva y su perfecta integración en Windows e iOS. La herramienta le brinda la oportunidad de personalizar las traducciones y puede mantener mucho control sobre la traducción automática. 
+
+Otra de las grandes características de DeepL es que conserva el formato del documento original. 
+
+Algunas de las características principales de DeepL incluyen: 
+
+Traduce más de 25 idiomas internacionales
+Sin límite de texto
+extensión de Windows
+Ideal para empresas y particulares. 
+Conserva el formato del documento original
+# 4 Maquina traductora
+
+Search
+Últimas palabras con traducción automática
+Esta es una herramienta única que está diseñada para analizar, comparar y recomendar la mejor traducción automática para cualquier texto y par de idiomas. Se basa en las capacidades de GPT-4 para determinar las fortalezas y debilidades de cada resultado de traducción del motor, lo que a su vez proporciona una experiencia de traducción personalizada para cada usuario.
+
+También entienden que cada mensaje es único, por eso nuestra herramienta tiene en cuenta el contexto y los matices del texto para mejorar la precisión de cualquier traducción. De esa manera, tanto las personas como las empresas pueden comunicarse con confianza y claridad.
+
+Algunas de las características incluyen elegir el público objetivo de la traducción, como público en general, profesionales técnicos o investigadores académicos.
+
+Traduce más de 50 idiomas internacionales
+Compare Google, DeepL, Amazon, ModernMT, Microsoft y ChatGPT
+Ideal para empresas y particulares. 
+Elija el público objetivo
+# 5 Wordly
+# Esta en particular es una que despierta mi interés ya que tiene una aplicación que consiste en adivinar palabras a través de una porción de ellas,esto esuna gran herramienta de aprendizaje que a su vez maniuente una cualidad de entretenimiento.
+Wordly es una herramienta de traducción diseñada para facilitar la comunicación multilingüe ofreciendo una variedad de servicios de traducción de idiomas. Su objetivo es ayudar a los usuarios a superar las barreras lingüísticas al proporcionar traducciones precisas y contextualmente relevantes. La herramienta admite una variedad de idiomas y está diseñada para ser fácil de usar, tanto para usuarios ocasionales como para profesionales que necesitan traducciones confiables para uso comercial o personal.
+
+ 
+
+La plataforma emplea algoritmos avanzados para garantizar traducciones de alta calidad. Wordly se centra en ofrecer traducciones que capten los matices de los distintos idiomas, lo que las hace adecuadas para diversos contextos. El servicio también incluye funciones para gestionar terminología especializada, lo que puede resultar especialmente útil para necesidades técnicas o específicas de la industria.
+
+ 
+
+Además de sus funciones de traducción, Wordly ofrece herramientas de traducción en tiempo real e integración con otras aplicaciones. Esta versatilidad lo convierte en una opción práctica para personas y organizaciones que buscan optimizar sus procesos de comunicación en distintos idiomas.
+
+ 
+
+Características:
+Admite una amplia gama de idiomas.
+Utiliza algoritmos de traducción avanzados.
+Proporciona traducciones contextualmente precisas
+Incluye funciones de traducción en tiempo real.
+Se integra con otras aplicaciones
+ 
+
+Servicios:
+Traducción de texto
+Traducción en tiempo real
+Manejo de terminología especializada
+Integración con aplicaciones externas
+ 
+
 
