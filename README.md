@@ -130,7 +130,11 @@ coche(numBastidor,matricula,año,marca,modelo,color...)
 vendedor(numVendedor,dni,nombre,ape,tf)
 venta(coche,cliente,vendedorimporte,fecha...)
 recompra(de coche)(por cliente)
+![1732035624907 (1)](https://github.com/user-attachments/assets/75ec8303-e82e-49ed-a8aa-e85dc37a8350)
+
+
 # Trabajo particular trimerstral(Busqueda de información sobre inteligencias artificiales dedicadas a la traducción e inter`retación de idiomas)
+
 
 # 1. Google Lens
 -Traducción en tiempo real de más de 100 idiomas usando la cámara.
@@ -207,6 +211,7 @@ Traducción de texto
 Traducción en tiempo real
 Manejo de terminología especializada
 Integración con aplicaciones externas
- 
+
+
 
 
