@@ -213,5 +213,33 @@ Manejo de terminología especializada
 Integración con aplicaciones externas
 
 
+# segundo trimestre
+# Trabajo LOGSEQ
+
+LogseQ es un PKM(personal knowledge management) como obsidian y github,como su nombre indica,su función recae principalmente en almacenar conocimientos tuyos en la red,y poder acceder a ellos a través del programa.Además estos son capaces de ofrecer diversas opciónes de organización y almacenamiento,lo cual da lugar a variás funciónes dentro del programa.
+
+# Una vez introducido de qué van estos programas voy a profundizar más en logseQ y contar mi experiencia con este.
+
+# Funciones y características de Logseq
+-Logseq integra funcionalidades avanzadas con operaciones fáciles de usar para agilizar la gestión de datos extensos. Sus funciones están orientadas a maximizar la organización, la personalización y la sincronización.
+
+-Es una herramienta gratuita y de código abierto que siempre seguirá siendo gratuita para uso personal.
+
+-La aplicación Logseq utiliza principalmente el lenguaje de programación Clojure . En pocas palabras, Clojure es un lenguaje de programación funcional de tipado dinámico, con la sintaxis de Lisp, que se ejecuta en la JVM. ClojureScript es simplemente Clojure compilado en JavaScript. Clojure es fácil de aprender, puedes aprenderlo bastante rápido siguiendo la guía oficial.
+
+-Logseq es un proyecto de código abierto. Aunque hay un equipo de desarrollo central que impulsa la mayor parte del desarrollo, aún puedes contribuir al desarrollo de la aplicación. Esto también garantiza la longevidad de la aplicación. Si el equipo de desarrollo desapareciera de la noche a la mañana, aún podrías descargar la última versión de Logseq desde GitHub.
+
+-Interfaz de Logseq puede considerarse más intuitiva debido a su apariencia uniforme en varios temas. La interfaz cuenta con una barra lateral izquierda para la navegación y páginas "Favoritos" y "Recientes", y dos paneles para acceder a la información con el panel principal y la barra lateral derecha. Además, las referencias vinculadas de Logseq son más fáciles de navegar. Independientemente del panel que esté utilizando, siempre hay una indicación visual clara de la fuente de la información.
+
+-Logseq tiene funciones básicas de consulta y gestión de tareas integradas en la aplicación. La interfaz también permite a los usuarios acceder fácilmente a referencias vinculadas en la parte inferior de los paneles principal y lateral, una característica muy útil en una base de datos vinculada.
+
+En conclusion,LogseQ es una herramienta intuitiva,accesible y bastante útil en varios aspectos,una opción muy recomendablke dentro de los PkM.Con un manejamiento sencillo y rápido,en mi opinión lo considero superior a otros programas similares como obsidian o markdown.
+
+# Mi experiencia con logseQ y como lo he aplicado a mis conocimientos.
+
+
+
+
+
 
 
