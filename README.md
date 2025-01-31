@@ -236,6 +236,18 @@ LogseQ es un PKM(personal knowledge management) como obsidian y github,como su n
 En conclusion,LogseQ es una herramienta intuitiva,accesible y bastante útil en varios aspectos,una opción muy recomendablke dentro de los PkM.Con un manejamiento sencillo y rápido,en mi opinión lo considero superior a otros programas similares como obsidian o markdown.
 
 # Mi experiencia con logseQ y como lo he aplicado a mis conocimientos.
+![Screenshot_2025-01-27-12-16-06-263_com android chrome](https://github.com/user-attachments/assets/2ffbd104-9beb-486f-ac90-86dffaa87e2c)
+![Screenshot_2025-01-27-12-15-56-214_com android chrome](https://github.com/user-attachments/assets/fbcfa334-767b-4103-bdc4-3fc7a9ae9fe0)
+![Screenshot_2025-01-27-12-17-13-158_com android chrome](https://github.com/user-attachments/assets/d2c5d1fc-cc5e-4bf3-b4ff-ddb6283c13f5)
+![Screenshot_2025-01-27-12-17-21-898_com android chrome](https://github.com/user-attachments/assets/c2ec52be-9d1d-4fde-b9ed-228e3c821e19)
+![Screenshot_2025-01-27-12-18-13-997_com android chrome](https://github.com/user-attachments/assets/bf0b1209-232f-4f6b-8594-b399d22a23e2)
+![Screenshot_2025-01-27-12-18-45-066_com android chrome](https://github.com/user-attachments/assets/eec15594-5379-4015-97a9-49943766e69c)
+Estos son los resultados que he obtenido(capturas adjuntadas de el móvil).Como se puede apreciar,ambas herramientas proporciónan inteligencias artificiales que cumplen la función que piden,es decir,ambas son eficientes alcumplir el propósito con el que fueron creadas conb precisión,además ambas herramientas ofrecen una gran variedad de opciónes 
+
+
+
+
+
 
 
 
