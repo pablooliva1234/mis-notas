@@ -242,7 +242,11 @@ En conclusion,LogseQ es una herramienta intuitiva,accesible y bastante útil en 
 ![Screenshot_2025-01-27-12-17-21-898_com android chrome](https://github.com/user-attachments/assets/c2ec52be-9d1d-4fde-b9ed-228e3c821e19)
 ![Screenshot_2025-01-27-12-18-13-997_com android chrome](https://github.com/user-attachments/assets/bf0b1209-232f-4f6b-8594-b399d22a23e2)
 ![Screenshot_2025-01-27-12-18-45-066_com android chrome](https://github.com/user-attachments/assets/eec15594-5379-4015-97a9-49943766e69c)
-Estos son los resultados que he obtenido(capturas adjuntadas de el móvil).Como se puede apreciar,ambas herramientas proporciónan inteligencias artificiales que cumplen la función que piden,es decir,ambas son eficientes alcumplir el propósito con el que fueron creadas conb precisión,además ambas herramientas ofrecen una gran variedad de opciónes 
+Estos son los resultados que he obtenido(capturas adjuntadas de el móvil).Como se puede apreciar,ambas herramientas proporciónan inteligencias artificiales que cumplen la función que piden,es decir,ambas son eficientes alcumplir el propósito con el que fueron creadas conb precisión,además ambas herramientas ofrecen una gran variedad de opciónes,todas de gran calidad y accesibilidad,los resultados son inmediatos.
+Los ámbitos que he buscado son chatbots y inteligencias artificiales para generar imágenes,como he dicho antes ambas herramientas cumplen su objetivo con precision peroi se diferencias en que toolify presenta una interfaz mas amplia,tal y como se ve en las imágenes.Que sugiere más funciónes similares,esto es una ventaja respecto a lo que nos ofrece aitoolselection,sin embargo esta herramienta también tiene una ventaja que no está presente en toolify.Y esta ventaja consiste en que presenta más información sobre cada inteligencia que recomienda,permitiéndote adquirir más conocimiento sobre cada inteligencia y valorar
+
+
+
 
 
 
