@@ -236,6 +236,15 @@ LogseQ es un PKM(personal knowledge management) como obsidian y github,como su n
 En conclusion,LogseQ es una herramienta intuitiva,accesible y bastante útil en varios aspectos,una opción muy recomendablke dentro de los PkM.Con un manejamiento sencillo y rápido,en mi opinión lo considero superior a otros programas similares como obsidian o markdown.
 
 # Mi experiencia con logseQ y como lo he aplicado a mis conocimientos.
+![image](https://github.com/user-attachments/assets/9dcfaf38-ad8c-48a6-80c5-c63859e45fe5)
+He creado esta tarjeta de memorización para una presentación de lengua,el acceso a esta pieza de texto es sencillo,pero me ha sido algo complicado averiguar el proceso para crearla,mediante el uso de #card el texto introducido se convcierte en una tarjeta.
+![image](https://github.com/user-attachments/assets/a66bef00-1b6b-4342-b7f2-951611e6fcf5)
+Aqui el resultado de la operación.
+![image](https://github.com/user-attachments/assets/9dc100d6-3636-480b-9b13-5699be4478ff)
+Además he decicido utilizar este programa para hacer un trabajo de esta misma asignatura,el texto lo he introducido pasandolo de documentos de google,he observado que se puede cambiar el tamaño y color de la letra,así como selecciónar la opción de itálica o negrita,similiar a cualquier herramienta de presentaciónes.No se puede añadir imágenes como tal,pero si esposible introducirla mediantes enlaces,pero para mí,lo más útil de este programa consiste en insertar páginas web dentro de este mismo
+
+
+
 
 # Trabajo de comparación entre toolify y aitoolselection.
 ![Screenshot_2025-01-27-12-16-06-263_com android chrome](https://github.com/user-attachments/assets/2ffbd104-9beb-486f-ac90-86dffaa87e2c)
@@ -247,6 +256,7 @@ En conclusion,LogseQ es una herramienta intuitiva,accesible y bastante útil en 
 Estos son los resultados que he obtenido(capturas adjuntadas de el móvil).Como se puede apreciar,ambas herramientas proporciónan inteligencias artificiales que cumplen la función que piden,es decir,ambas son eficientes alcumplir el propósito con el que fueron creadas conb precisión,además ambas herramientas ofrecen una gran variedad de opciónes,todas de gran calidad y accesibilidad,los resultados son inmediatos.
 Los ámbitos que he buscado son chatbots y inteligencias artificiales para generar imágenes,como he dicho antes ambas herramientas cumplen su objetivo con precision peroi se diferencias en que toolify presenta una interfaz mas amplia,tal y como se ve en las imágenes.Que sugiere más funciónes similares,esto es una ventaja respecto a lo que nos ofrece aitoolselection,sin embargo esta herramienta también tiene una ventaja que no está presente en toolify.Y esta ventaja consiste en que presenta más información sobre cada inteligencia que recomienda,permitiéndote adquirir más conocimiento sobre cada inteligencia y valorar mejor tus opciónes.
 En conclusión ambas herramientas son eficaces pero cada una tiene sus ventajas,es cuestión de las preferencias de cada persona si quieres utilizar una herramienta o otra.
+
 
 
 
