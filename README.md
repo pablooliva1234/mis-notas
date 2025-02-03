@@ -241,7 +241,10 @@ He creado esta tarjeta de memorización para una presentación de lengua,el acce
 ![image](https://github.com/user-attachments/assets/a66bef00-1b6b-4342-b7f2-951611e6fcf5)
 Aqui el resultado de la operación.
 ![image](https://github.com/user-attachments/assets/9dc100d6-3636-480b-9b13-5699be4478ff)
-Además he decicido utilizar este programa para hacer un trabajo de esta misma asignatura,el texto lo he introducido pasandolo de documentos de google,he observado que se puede cambiar el tamaño y color de la letra,así como selecciónar la opción de itálica o negrita,similiar a cualquier herramienta de presentaciónes.No se puede añadir imágenes como tal,pero si esposible introducirla mediantes enlaces,pero para mí,lo más útil de este programa consiste en insertar páginas web dentro de este mismo
+Además he decicido utilizar este programa para hacer un trabajo de esta misma asignatura,el texto lo he introducido pasandolo de documentos de google,he observado que se puede cambiar el tamaño y color de la letra,así como selecciónar la opción de itálica o negrita,similiar a cualquier herramienta de presentaciónes.No se puede añadir imágenes como tal,pero si esposible introducirla mediante enlaces,pero para mí,lo más útil de este programa consiste en insertar páginas web dentro de este mismo programa,como se puede observar,puedes acceder a cualquier página web sin salir del programa,lo cual facilita el estudio de estas y la versatilidad,en este caso he adjuntado un enlace a la página de las que he sacado las imágenes,de esta manera esta actúa de bibliografía y de herramienta para mostrar las imágenes
+![image](https://github.com/user-attachments/assets/48c5600e-388c-4e0c-8a91-5a376e70117c)
+En coclusión,este programa es muy útil en el ámbito académico,como herramienta de almacenamiento de conocimientos para su fácil acceso y para esquematizarla.
+
 
 
 
