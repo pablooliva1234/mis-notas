@@ -259,6 +259,15 @@ En coclusión,este programa es muy útil en el ámbito académico,como herramien
 Estos son los resultados que he obtenido(capturas adjuntadas de el móvil).Como se puede apreciar,ambas herramientas proporciónan inteligencias artificiales que cumplen la función que piden,es decir,ambas son eficientes alcumplir el propósito con el que fueron creadas conb precisión,además ambas herramientas ofrecen una gran variedad de opciónes,todas de gran calidad y accesibilidad,los resultados son inmediatos.
 Los ámbitos que he buscado son chatbots y inteligencias artificiales para generar imágenes,como he dicho antes ambas herramientas cumplen su objetivo con precision peroi se diferencias en que toolify presenta una interfaz mas amplia,tal y como se ve en las imágenes.Que sugiere más funciónes similares,esto es una ventaja respecto a lo que nos ofrece aitoolselection,sin embargo esta herramienta también tiene una ventaja que no está presente en toolify.Y esta ventaja consiste en que presenta más información sobre cada inteligencia que recomienda,permitiéndote adquirir más conocimiento sobre cada inteligencia y valorar mejor tus opciónes.
 En conclusión ambas herramientas son eficaces pero cada una tiene sus ventajas,es cuestión de las preferencias de cada persona si quieres utilizar una herramienta o otra.
+# Comparación de las inteligencias proporcionadas.
+# 
+Esta herramienta me ha recomendado dos inteligencias:Microsoft copilot(chatbot) y recraft.ai (generador de imçagenes),el primero es muy simple de utilizar,sin necesidad de in iciar sesión,lo cual se aprecia ya que lo hace de más fácil acceso.En cuanto a la utilidad,este te proporcióna respues simples 
+![image](https://github.com/user-attachments/assets/711e4cba-6b47-4c44-9ba9-89d099747238)
+![image](https://github.com/user-attachments/assets/75f6b21d-2867-4642-9f1c-66255493ea3e)
+![image](https://github.com/user-attachments/assets/18409c0d-cbd5-4624-870d-c5b2112785b5)
+![image](https://github.com/user-attachments/assets/49b75474-7872-4267-9658-2e0e94a008d9)
+
+
 
 
 
