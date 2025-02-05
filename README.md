@@ -260,11 +260,19 @@ Estos son los resultados que he obtenido(capturas adjuntadas de el móvil).Como 
 Los ámbitos que he buscado son chatbots y inteligencias artificiales para generar imágenes,como he dicho antes ambas herramientas cumplen su objetivo con precision peroi se diferencias en que toolify presenta una interfaz mas amplia,tal y como se ve en las imágenes.Que sugiere más funciónes similares,esto es una ventaja respecto a lo que nos ofrece aitoolselection,sin embargo esta herramienta también tiene una ventaja que no está presente en toolify.Y esta ventaja consiste en que presenta más información sobre cada inteligencia que recomienda,permitiéndote adquirir más conocimiento sobre cada inteligencia y valorar mejor tus opciónes.
 En conclusión ambas herramientas son eficaces pero cada una tiene sus ventajas,es cuestión de las preferencias de cada persona si quieres utilizar una herramienta o otra.
 # Comparación de las inteligencias proporcionadas.
-# 
-Esta herramienta me ha recomendado dos inteligencias:Microsoft copilot(chatbot) y recraft.ai (generador de imçagenes),el primero es muy simple de utilizar,sin necesidad de in iciar sesión,lo cual se aprecia ya que lo hace de más fácil acceso.En cuanto a la utilidad,este te proporcióna respues simples 
+# Chatbots:microsoft copilot(aitoolselection) y kimi(toolify).                                                                                                                                                                                             
+El primero es muy simple de utilizar,sin necesidad de in iniciar sesión,lo cual se aprecia ya que lo hace de más fácil acceso.En cuanto a la utilidad,este te proporcióna respuestas simples pero efectivas.Organizando la imformación mayoritariamente en puntos,yo considero que se trata de una alternativa interesenate a la famosa inteligencia ChatGPT,ya que estructura las respuestas de una manera similar.                                                                                                  
+En cuanto a Kimi.ai,considero que esta opción es superior en cuanto el ámbito de investigación,ya que te oferece un índice mediante el cual puedes acceder la información que has solicitado,ofereciendo hasta imágenes relaciónadas con el tema,sin embargo he observado que sus respuestas a veces son demasiado complejas,por lo que se dificulta más entender la información.
+En conclusión,Microsoft copilot es una alternativa más simple,apta para gente menos educada que necesita un acceso sencillo a la información,ofreciendo resultados simples pero efectivos,mientas que kimi es mas aptopara gente experta en el tema,que necesita información especielizada y completa,ya que sus respuestas son más elaboradas.
+# Capturas de los resultados
 ![image](https://github.com/user-attachments/assets/711e4cba-6b47-4c44-9ba9-89d099747238)
-![image](https://github.com/user-attachments/assets/75f6b21d-2867-4642-9f1c-66255493ea3e)
 ![image](https://github.com/user-attachments/assets/18409c0d-cbd5-4624-870d-c5b2112785b5)
+# Generadores de imágenes:Freepik(toolify) y Recraft(aitoolselection).
+Como se puede observar,freepik ofrece muchas más imágenes de carácter variado,abriendo más posibilidades para elegir tu mejor resultado,en cuanto a la calidad de las imágenes,estasson adecuadas,unas mejoresd que otras.El problema principal que hace que no sea automáticamente la mejor opción es que solo puedes generar una imagen al día sin elegir la opción de pago lo cuál la limita bastante,en cuanto a recraft,esta genera imágenes de más calidad pero no te ofrece un arco amplio de posibilidades,sin embargo,considero que esta op
+
+
+
+![image](https://github.com/user-attachments/assets/75f6b21d-2867-4642-9f1c-66255493ea3e)
 ![image](https://github.com/user-attachments/assets/49b75474-7872-4267-9658-2e0e94a008d9)
 
 
