@@ -264,8 +264,8 @@ En conclusión,Microsoft copilot es una alternativa más simple,apta para gente 
 ![image](https://github.com/user-attachments/assets/711e4cba-6b47-4c44-9ba9-89d099747238)
 ![image](https://github.com/user-attachments/assets/18409c0d-cbd5-4624-870d-c5b2112785b5)
 # Generadores de imágenes:Freepik(toolify) y Recraft(aitoolselection).
-# RESULTADOS
 Como se puede observar,freepik ofrece muchas más imágenes de carácter variado,abriendo más posibilidades para elegir tu mejor resultado,en cuanto a la calidad de las imágenes,estasson adecuadas,unas mejoresd que otras.El problema principal que hace que no sea automáticamente la mejor opción es que solo puedes generar una imagen al día sin elegir la opción de pago lo cuál la limita bastante,en cuanto a recraft,esta genera imágenes de más calidad pero no te ofrece un arco amplio de posibilidades,sin embargo,considero que esta opción es superior ya que no tienes que pagar para generar imágenes libremente,y la calidad me parece más importante que la cantidad.
+# Capturas de los resultados
 ![image](https://github.com/user-attachments/assets/75f6b21d-2867-4642-9f1c-66255493ea3e)
 ![image](https://github.com/user-attachments/assets/49b75474-7872-4267-9658-2e0e94a008d9)
 ![image](https://github.com/user-attachments/assets/8ede1598-629c-48bd-8649-d0583307c20b)
